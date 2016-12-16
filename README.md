@@ -2,7 +2,7 @@
 移动端div内滚动条不显示问题
 
 在需要的页面加下面的css样式
-```
+```css
         ::-webkit-scrollbar {
             -webkit-appearance: none;
         }
